@@ -5,6 +5,9 @@ python 스크립트, 간단한 GUI
 java Spring  
 js Vue.js
 
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=eoehd1ek)](https://solved.ac/eoehd1ek)
+
 <!--
 **eoehd1ek/eoehd1ek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
